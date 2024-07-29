@@ -35,8 +35,8 @@ The Power BI report includes visualizations and insights related to:
 
 ## Screenshots
 
-![Netflix Dashboard_page-0001](https://github.com/user-attachments/assets/422db4f2-f440-41d1-9ddd-6d9e9e643e40)
+<img src="https://github.com/user-attachments/assets/422db4f2-f440-41d1-9ddd-6d9e9e643e40" width="850" />
 
-<img src="https://github.com/tushar11720/Netflix/assets/132842128/4fedf92f-5254-4e43-aeba-0591d8228502" width="850">
+<img src="https://github.com/user-attachments/assets/18fd72f7-c394-4179-a4a7-4b4cabe11356" width="850" />
 
-<img src="https://github.com/tushar11720/Netflix/assets/132842128/601381cc-5717-45c1-a5c7-730401ef9018" width="850">
+<img src="https://github.com/user-attachments/assets/af808735-2577-4323-9030-f10529485a4d" width="850" />
